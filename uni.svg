@@ -55,20 +55,6 @@
         </g>
         <rect x="0" y="0" width="290" height="500" rx="42" ry="42" fill="rgba(0,0,0,0)" stroke="rgba(255,255,255,0.2)" />
     </g>
-    <text text-rendering="optimizeSpeed">
-        <textPath startOffset="-100%" fill="white" font-family="'Courier New', monospace" font-size="10px" xlink:href="#text-path-a">0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2 • WETH 
-            <animate additive="sum" attributeName="startOffset" from="0%" to="100%" begin="0s" dur="30s" repeatCount="indefinite" />
-        </textPath>
-        <textPath startOffset="0%" fill="white" font-family="'Courier New', monospace" font-size="10px" xlink:href="#text-path-a">0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2 • WETH 
-            <animate additive="sum" attributeName="startOffset" from="0%" to="100%" begin="0s" dur="30s" repeatCount="indefinite" />
-        </textPath>
-        <textPath startOffset="50%" fill="white" font-family="'Courier New', monospace" font-size="10px" xlink:href="#text-path-a">0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 • USDC 
-            <animate additive="sum" attributeName="startOffset" from="0%" to="100%" begin="0s" dur="30s" repeatCount="indefinite" />
-        </textPath>
-        <textPath startOffset="-50%" fill="white" font-family="'Courier New', monospace" font-size="10px" xlink:href="#text-path-a">0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 • USDC 
-            <animate additive="sum" attributeName="startOffset" from="0%" to="100%" begin="0s" dur="30s" repeatCount="indefinite" />
-        </textPath>
-    </text>
     <g mask="url(#fade-symbol)">
         <rect fill="none" x="0px" y="0px" width="290px" height="200px" />
         <text y="70px" x="32px" fill="white" font-family="'Courier New', monospace" font-weight="200" font-size="36px">USDC/WETH</text>
